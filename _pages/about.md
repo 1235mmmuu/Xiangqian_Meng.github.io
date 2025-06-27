@@ -12,7 +12,6 @@ I enjoy swimming and playing basketball. For any inquiries, please contact me at
 
 # Xiangqian Meng
 - **Gender**: Male
-- **Hukou**: Jiexiu City, Shanxi Province
 - **Email**: 478294595@qq.com
 - **Languages**: CET6
 - **Programming**: Matlab, Python
