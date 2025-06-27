@@ -8,7 +8,6 @@
 
 # Basic Site Settings
 locale                   : "en-China"
-site_theme               : "default"
 title                    : "Xiangqian Meng / Personal Website"
 title_separator          : "-"
 name                     : &name "Xiangqian Meng"
@@ -23,9 +22,7 @@ repository               : "1235mmmuu/Xiangqian_Meng.github.io"
 author:
   # Biographic information
   avatar           : "m.png"
-  name             : "Xiangqian Meng"
   pronouns         : # example: "she/her"  
-  bio              : "Focusing on the research of polar icebreaker power systems, I have participated in the National Key R&D Program 'Research on Navigation Capacity of Arctic Routes and Risk Assessment Technology for Ice Navigation'. "
   location         : "Shanghai China"
   employer         : "Shanghai Jiaotong University"
   uri              : # URL
