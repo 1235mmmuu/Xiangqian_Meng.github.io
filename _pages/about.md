@@ -13,8 +13,6 @@ I enjoy swimming and playing basketball. For any inquiries, please contact me at
 
 # Xiangqian Meng
 - **Gender**: Male
-- **Age**: 27
-- **Phone**: 18018901182
 - **Hukou**: Jiexiu City, Shanxi Province
 - **Email**: 478294595@qq.com
 - **Languages**: CET6
