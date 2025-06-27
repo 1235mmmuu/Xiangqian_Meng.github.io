@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Meng Xiangqian, a Ph.D. candidate at the School of Naval Architecture, Ocean and Civil Engineering, Shanghai Jiao Tong University (https://naoce.sjtu.edu.cn/) ,focuses on the research of polar icebreaker power systems. He has participated in the National Key R&D Program "Research on Navigation Capacity of Arctic Routes and Risk Assessment Technology for Ice Navigation"
 
 I enjoy swimming and playing basketball. For any inquiries, please contact me at 478294595@qq.com. Address: Mulan Building, School of Naval Architecture, Ocean and Civil Engineering, Shanghai Jiao Tong University.
