@@ -20,7 +20,7 @@ I enjoy swimming and playing basketball. For any inquiries, please contact me at
 - **WeChat**: Monty98qian
 
 ## Main Research Directions
-Marine environment, the research of polar icebreaker power systems，ship safety, marine engines
+polar icebreaker power systems, Marine environment, ship safety, marine engines
 
 ## Educational Experience
 - **2025.9 - Present**: Ph.D. Candidate in Naval Architecture and Ocean Engineering, Shanghai Jiao Tong University
